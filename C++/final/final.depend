@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1436737274 source:c:\users\felix\documents\c++\final\main.cpp
+	<iostream>
+	"funciones.h"
+	<stdlib.h>
+
+1436738655 source:c:\users\felix\documents\c++\final\funciones.cpp
+	<iostream>
+
+1436734658 c:\users\felix\documents\c++\final\funciones.h
+	<iostream>
+

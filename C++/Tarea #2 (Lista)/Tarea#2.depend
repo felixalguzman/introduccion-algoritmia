@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1435942347 source:c:\users\felix\documents\c++\tarea#2\main.cpp
+	<iostream>
+	"funcion.h"
+
+1435942375 source:c:\users\felix\documents\c++\tarea#2\funcion.cpp
+	<iostream>
+
+1436023926 c:\users\felix\documents\c++\tarea#2\funcion.h
+
+1435942347 source:c:\users\felix\desktop\tarea2\main.cpp
+	<iostream>
+	"funcion.h"
+
+1436023926 c:\users\felix\desktop\tarea2\funcion.h
+
+1436027430 source:c:\users\felix\desktop\tarea2\funcion.cpp
+	<iostream>
+	<iomanip>
+
+1436146932 source:c:\users\felix\desktop\tarea #2 (lista)\funcion.cpp
+	<iostream>
+
+1436146916 source:c:\users\felix\desktop\tarea #2 (lista)\main.cpp
+	<iostream>
+	"funcion.h"
+
+1436023926 c:\users\felix\desktop\tarea #2 (lista)\funcion.h
+

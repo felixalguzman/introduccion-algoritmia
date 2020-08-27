@@ -1,0 +1,67 @@
+# depslib dependency file v1.0
+1436737274 source:c:\users\felix\documents\c++\final\main.cpp
+	<iostream>
+	"funciones.h"
+	<stdlib.h>
+
+1436738655 source:c:\users\felix\documents\c++\final\funciones.cpp
+	<iostream>
+
+1436734658 c:\users\felix\documents\c++\final\funciones.h
+	<iostream>
+
+1437016863 source:c:\users\felix\downloads\final-2015-07-15\final\main.cpp
+	<iostream>
+	"funciones.h"
+	<stdlib.h>
+
+1437013833 c:\users\felix\downloads\final-2015-07-15\final\funciones.h
+	<iostream>
+
+1437017574 source:c:\users\felix\downloads\final-2015-07-15\final\funciones.cpp
+	<iostream>
+
+1437036089 source:c:\users\basilio\desktop\final felixx\final poderoso\funciones.cpp
+	<iostream>
+
+1437091229 source:c:\users\basilio\desktop\final felixx\final poderoso\main.cpp
+	<iostream>
+	"funciones.h"
+	<stdlib.h>
+
+1437021626 c:\users\basilio\desktop\final felixx\final poderoso\funciones.h
+	<iostream>
+
+1437021690 source:e:\final poderoso\funciones.cpp
+	<iostream>
+
+1437076830 source:e:\final poderoso\main.cpp
+	<iostream>
+	"funciones.h"
+	<stdlib.h>
+
+1437007226 e:\final poderoso\funciones.h
+	<iostream>
+
+1437080836 source:c:\users\20140577\desktop\final poderoso\funciones.cpp
+	<iostream>
+
+1437080927 source:c:\users\20140577\desktop\final poderoso\main.cpp
+	<iostream>
+	"funciones.h"
+	<stdlib.h>
+
+1437080674 c:\users\20140577\desktop\final poderoso\funciones.h
+	<iostream>
+
+1437147011 source:c:\users\jean\desktop\final poderoso2\funciones.cpp
+	<iostream>
+
+1437146802 source:c:\users\jean\desktop\final poderoso2\main.cpp
+	<iostream>
+	"funciones.h"
+	<stdlib.h>
+
+1437144932 c:\users\jean\desktop\final poderoso2\funciones.h
+	<iostream>
+
